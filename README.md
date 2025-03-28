@@ -14,3 +14,5 @@ Advanced machine learning models, such as Hidden Markov Models (HMMs), provide a
 way to analyze sequential data and uncover patterns and factors that lead to the churn of customers.
 This chapter introduces the project, its objectives, and the motivation behind employing machine
 learning techniques for churn prediction.
+
+Dataset - https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
